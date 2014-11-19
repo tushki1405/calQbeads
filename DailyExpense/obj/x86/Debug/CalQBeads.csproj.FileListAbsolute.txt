@@ -1,0 +1,3 @@
+C:\Users\t.a.gupta\Desktop\Docs\Personal\DailyExpense\DailyExpense\DailyExpense\bin\x86\Debug\DailyExpense.exe.config
+C:\Users\t.a.gupta\Desktop\Docs\Personal\DailyExpense\DailyExpense\DailyExpense\obj\x86\Debug\DailyExpense.exe
+C:\Users\t.a.gupta\Desktop\Docs\Personal\DailyExpense\DailyExpense\DailyExpense\obj\x86\Debug\DailyExpense.pdb

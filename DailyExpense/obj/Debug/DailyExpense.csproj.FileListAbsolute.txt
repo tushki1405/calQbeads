@@ -1,0 +1,15 @@
+C:\Users\t.a.gupta\Documents\Visual Studio 2008\Projects\DailyExpense\DailyExpense\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\t.a.gupta\Documents\Visual Studio 2008\Projects\DailyExpense\DailyExpense\obj\Debug\DailyExpense.Properties.Resources.resources
+C:\Users\t.a.gupta\Documents\Visual Studio 2008\Projects\DailyExpense\DailyExpense\obj\Debug\DailyExpense.csproj.GenerateResource.Cache
+C:\Users\t.a.gupta\Documents\Visual Studio 2008\Projects\DailyExpense\DailyExpense\bin\Debug\DailyExpense.exe
+C:\Users\t.a.gupta\Documents\Visual Studio 2008\Projects\DailyExpense\DailyExpense\bin\Debug\DailyExpense.pdb
+C:\Users\t.a.gupta\Documents\Visual Studio 2008\Projects\DailyExpense\DailyExpense\bin\Debug\Controller.dll
+C:\Users\t.a.gupta\Documents\Visual Studio 2008\Projects\DailyExpense\DailyExpense\bin\Debug\Controller.pdb
+C:\Users\t.a.gupta\Documents\Visual Studio 2008\Projects\DailyExpense\DailyExpense\obj\Debug\DailyExpense.exe
+C:\Users\t.a.gupta\Documents\Visual Studio 2008\Projects\DailyExpense\DailyExpense\obj\Debug\DailyExpense.pdb
+C:\Users\t.a.gupta\Documents\Visual Studio 2008\Projects\DailyExpense\DailyExpense\obj\Debug\DailyExpense.Shared.MainWindow.resources
+C:\Users\t.a.gupta\Documents\Visual Studio 2008\Projects\DailyExpense\DailyExpense\obj\Debug\DailyExpense.Shared.Splash.resources
+C:\Users\t.a.gupta\Documents\Visual Studio 2008\Projects\DailyExpense\DailyExpense\bin\Debug\Model.dll
+C:\Users\t.a.gupta\Documents\Visual Studio 2008\Projects\DailyExpense\DailyExpense\bin\Debug\Model.pdb
+C:\Users\t.a.gupta\Documents\Visual Studio 2008\Projects\DailyExpense\DailyExpense\obj\Debug\DailyExpense.Common.Home.resources
+C:\Users\t.a.gupta\Documents\Visual Studio 2008\Projects\DailyExpense\DailyExpense\bin\Debug\Interop.ADOX.dll

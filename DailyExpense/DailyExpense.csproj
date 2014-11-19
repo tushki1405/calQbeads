@@ -1,0 +1,354 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{0B05CB49-E1A9-49E1-86EC-7E2DDE1C7E3C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DailyExpense</RootNamespace>
+    <AssemblyName>CalQBeads</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation />
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <PublishUrl>C:\Users\t.a.gupta\Desktop\CalQBeads\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <AutorunEnabled>true</AutorunEnabled>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.cs</CodeAnalysisModuleSuppressionsFile>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.cs</CodeAnalysisModuleSuppressionsFile>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>5E120FF1DF8E2722F922494F6DC53D88F1C77D5D</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>DailyExpense_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Common\Accounts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Common\Accounts.Designer.cs">
+      <DependentUpon>Accounts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Common\AddExpense.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Common\AddExpense.Designer.cs">
+      <DependentUpon>AddExpense.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Common\Category.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Common\Category.Designer.cs">
+      <DependentUpon>Category.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Common\Debts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Common\Debts.Designer.cs">
+      <DependentUpon>Debts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Common\Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Common\Home.Designer.cs">
+      <DependentUpon>Home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Common\Password.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Common\Password.Designer.cs">
+      <DependentUpon>Password.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Common\ViewExpense.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Common\ViewExpense.Designer.cs">
+      <DependentUpon>ViewExpense.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Common\ViewExpensesCombined.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Common\ViewExpensesCombined.Designer.cs">
+      <DependentUpon>ViewExpensesCombined.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Common\Accounts.resx">
+      <DependentUpon>Accounts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Common\AddExpense.resx">
+      <DependentUpon>AddExpense.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Common\Category.resx">
+      <DependentUpon>Category.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Common\Debts.resx">
+      <DependentUpon>Debts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Common\Home.resx">
+      <DependentUpon>Home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Common\Password.resx">
+      <DependentUpon>Password.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Common\ViewExpense.resx">
+      <DependentUpon>ViewExpense.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Common\ViewExpensesCombined.resx">
+      <DependentUpon>ViewExpensesCombined.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SharedExpenses\SEEdit.resx">
+      <DependentUpon>SEEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SharedExpenses\SEHome.resx">
+      <DependentUpon>SEHome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SharedExpenses\SEReport.resx">
+      <DependentUpon>SEReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SharedExpenses\SETran.resx">
+      <DependentUpon>SETran.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Shared\About.resx">
+      <DependentUpon>About.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Shared\MainWindow.resx">
+      <DependentUpon>MainWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Shared\Splash.resx">
+      <DependentUpon>Splash.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Shared\UserLanding.resx">
+      <DependentUpon>UserLanding.cs</DependentUpon>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="DailyExpense_TemporaryKey.pfx" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="SharedExpenses\SEEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SharedExpenses\SEEdit.Designer.cs">
+      <DependentUpon>SEEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SharedExpenses\SEHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SharedExpenses\SEHome.Designer.cs">
+      <DependentUpon>SEHome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SharedExpenses\SEReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SharedExpenses\SEReport.Designer.cs">
+      <DependentUpon>SEReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SharedExpenses\SETran.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SharedExpenses\SETran.Designer.cs">
+      <DependentUpon>SETran.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Shared\About.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Shared\About.Designer.cs">
+      <DependentUpon>About.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Shared\MainWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Shared\MainWindow.Designer.cs">
+      <DependentUpon>MainWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Shared\Splash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Shared\Splash.Designer.cs">
+      <DependentUpon>Splash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Shared\UserLanding.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Shared\UserLanding.Designer.cs">
+      <DependentUpon>UserLanding.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Controller\Controller.csproj">
+      <Project>{4579741C-432C-4868-B0A1-DF4A58394944}</Project>
+      <Name>Controller</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Model\Model.csproj">
+      <Project>{6DE9AB4E-603C-48F4-893E-E48494E6EAA1}</Project>
+      <Name>Model</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Content\Images\btnClose.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Images\btnClose2.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Images\btnDelete.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Images\btnDelete2.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Images\btnHome.PNG">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Images\btnHome2.PNG">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Images\btnMinimise.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Images\btnMinimise2.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Images\Icon.ico">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Images\Icon.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Images\Image.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Transactions\" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

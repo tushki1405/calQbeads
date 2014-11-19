@@ -1,0 +1,165 @@
+C:\Users\t.a.gupta\Documents\Visual Studio 2008\Projects\DailyExpense\DailyExpense\bin\x86\Debug\DailyExpense.exe
+C:\Users\t.a.gupta\Documents\Visual Studio 2008\Projects\DailyExpense\DailyExpense\bin\x86\Debug\DailyExpense.pdb
+C:\Users\t.a.gupta\Documents\Visual Studio 2008\Projects\DailyExpense\DailyExpense\bin\x86\Debug\Controller.dll
+C:\Users\t.a.gupta\Documents\Visual Studio 2008\Projects\DailyExpense\DailyExpense\bin\x86\Debug\Model.dll
+C:\Users\t.a.gupta\Documents\Visual Studio 2008\Projects\DailyExpense\DailyExpense\bin\x86\Debug\Interop.ADOX.dll
+C:\Users\t.a.gupta\Documents\Visual Studio 2008\Projects\DailyExpense\DailyExpense\bin\x86\Debug\Model.pdb
+C:\Users\t.a.gupta\Documents\Visual Studio 2008\Projects\DailyExpense\DailyExpense\bin\x86\Debug\Controller.pdb
+C:\Users\t.a.gupta\Documents\Visual Studio 2008\Projects\DailyExpense\DailyExpense\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\t.a.gupta\Documents\Visual Studio 2008\Projects\DailyExpense\DailyExpense\obj\x86\Debug\DailyExpense.Common.Home.resources
+C:\Users\t.a.gupta\Documents\Visual Studio 2008\Projects\DailyExpense\DailyExpense\obj\x86\Debug\DailyExpense.Properties.Resources.resources
+C:\Users\t.a.gupta\Documents\Visual Studio 2008\Projects\DailyExpense\DailyExpense\obj\x86\Debug\DailyExpense.Shared.MainWindow.resources
+C:\Users\t.a.gupta\Documents\Visual Studio 2008\Projects\DailyExpense\DailyExpense\obj\x86\Debug\DailyExpense.Shared.Splash.resources
+C:\Users\t.a.gupta\Documents\Visual Studio 2008\Projects\DailyExpense\DailyExpense\obj\x86\Debug\DailyExpense.csproj.GenerateResource.Cache
+C:\Users\t.a.gupta\Documents\Visual Studio 2008\Projects\DailyExpense\DailyExpense\obj\x86\Debug\DailyExpense.exe
+C:\Users\t.a.gupta\Documents\Visual Studio 2008\Projects\DailyExpense\DailyExpense\obj\x86\Debug\DailyExpense.pdb
+C:\Users\t.a.gupta\Documents\Visual Studio 2008\Projects\DailyExpense\DailyExpense\obj\x86\Debug\DailyExpense.Shared.UserLanding.resources
+C:\Users\t.a.gupta\Documents\Visual Studio 2008\Projects\DailyExpense\DailyExpense\bin\x86\Debug\Content\Images\btnClose.png
+C:\Users\t.a.gupta\Documents\Visual Studio 2008\Projects\DailyExpense\DailyExpense\bin\x86\Debug\Content\Images\btnClose2.png
+C:\Users\t.a.gupta\Documents\Visual Studio 2008\Projects\DailyExpense\DailyExpense\bin\x86\Debug\Content\Images\btnMinimise.png
+C:\Users\t.a.gupta\Documents\Visual Studio 2008\Projects\DailyExpense\DailyExpense\bin\x86\Debug\Content\Images\btnMinimise2.png
+C:\Users\t.a.gupta\Documents\Visual Studio 2008\Projects\DailyExpense\DailyExpense\bin\x86\Debug\DailyExpense.exe.config
+C:\Users\t.a.gupta\Documents\Visual Studio 2008\Projects\DailyExpense\DailyExpense\obj\x86\Debug\DailyExpense.Common.Password.resources
+C:\Users\t.a.gupta\Documents\DailyExpense\New\DailyExpense\DailyExpense\bin\x86\Debug\DailyExpense.exe.config
+C:\Users\t.a.gupta\Documents\DailyExpense\New\DailyExpense\DailyExpense\obj\x86\Debug\DailyExpense.exe
+C:\Users\t.a.gupta\Documents\DailyExpense\New\DailyExpense\DailyExpense\obj\x86\Debug\DailyExpense.pdb
+C:\Users\t.a.gupta\Documents\DailyExpense\New\DailyExpense\DailyExpense\bin\x86\Debug\Content\Images\btnClose.png
+C:\Users\t.a.gupta\Documents\DailyExpense\New\DailyExpense\DailyExpense\bin\x86\Debug\Content\Images\btnClose2.png
+C:\Users\t.a.gupta\Documents\DailyExpense\New\DailyExpense\DailyExpense\bin\x86\Debug\Content\Images\btnMinimise.png
+C:\Users\t.a.gupta\Documents\DailyExpense\New\DailyExpense\DailyExpense\bin\x86\Debug\Content\Images\btnMinimise2.png
+C:\Users\t.a.gupta\Documents\DailyExpense\New\DailyExpense\DailyExpense\bin\x86\Debug\DailyExpense.exe
+C:\Users\t.a.gupta\Documents\DailyExpense\New\DailyExpense\DailyExpense\bin\x86\Debug\DailyExpense.pdb
+C:\Users\t.a.gupta\Documents\DailyExpense\New\DailyExpense\DailyExpense\bin\x86\Debug\Controller.dll
+C:\Users\t.a.gupta\Documents\DailyExpense\New\DailyExpense\DailyExpense\bin\x86\Debug\Model.dll
+C:\Users\t.a.gupta\Documents\DailyExpense\New\DailyExpense\DailyExpense\bin\x86\Debug\Interop.ADOX.dll
+C:\Users\t.a.gupta\Documents\DailyExpense\New\DailyExpense\DailyExpense\bin\x86\Debug\Controller.pdb
+C:\Users\t.a.gupta\Documents\DailyExpense\New\DailyExpense\DailyExpense\bin\x86\Debug\Model.pdb
+C:\Users\t.a.gupta\Documents\DailyExpense\New\DailyExpense\DailyExpense\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\t.a.gupta\Documents\DailyExpense\New\DailyExpense\DailyExpense\obj\x86\Debug\DailyExpense.Common.Home.resources
+C:\Users\t.a.gupta\Documents\DailyExpense\New\DailyExpense\DailyExpense\obj\x86\Debug\DailyExpense.Common.Password.resources
+C:\Users\t.a.gupta\Documents\DailyExpense\New\DailyExpense\DailyExpense\obj\x86\Debug\DailyExpense.Properties.Resources.resources
+C:\Users\t.a.gupta\Documents\DailyExpense\New\DailyExpense\DailyExpense\obj\x86\Debug\DailyExpense.Shared.MainWindow.resources
+C:\Users\t.a.gupta\Documents\DailyExpense\New\DailyExpense\DailyExpense\obj\x86\Debug\DailyExpense.Shared.Splash.resources
+C:\Users\t.a.gupta\Documents\DailyExpense\New\DailyExpense\DailyExpense\obj\x86\Debug\DailyExpense.Shared.UserLanding.resources
+C:\Users\t.a.gupta\Documents\DailyExpense\New\DailyExpense\DailyExpense\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\t.a.gupta\Documents\DailyExpense\New\DailyExpense\DailyExpense\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\t.a.gupta\Documents\DailyExpense\New\DailyExpense\DailyExpense\obj\x86\Debug\DailyExpense.Common.Accounts.resources
+C:\Users\t.a.gupta\Documents\DailyExpense\New\DailyExpense\DailyExpense\bin\x86\Debug\Content\Images\btnDelete.png
+C:\Users\t.a.gupta\Documents\DailyExpense\New\DailyExpense\DailyExpense\bin\x86\Debug\Content\Images\btnDelete2.png
+C:\Users\Tushki\Desktop\Projects\DailyExpense\New\DailyExpense\DailyExpense\bin\x86\Debug\DailyExpense.exe.config
+C:\Users\Tushki\Desktop\Projects\DailyExpense\New\DailyExpense\DailyExpense\obj\x86\Debug\DailyExpense.exe
+C:\Users\Tushki\Desktop\Projects\DailyExpense\New\DailyExpense\DailyExpense\obj\x86\Debug\DailyExpense.pdb
+C:\Users\Tushki\Desktop\Projects\DailyExpense\New\DailyExpense\DailyExpense\bin\x86\Debug\Content\Images\btnClose.png
+C:\Users\Tushki\Desktop\Projects\DailyExpense\New\DailyExpense\DailyExpense\bin\x86\Debug\Content\Images\btnClose2.png
+C:\Users\Tushki\Desktop\Projects\DailyExpense\New\DailyExpense\DailyExpense\bin\x86\Debug\Content\Images\btnDelete.png
+C:\Users\Tushki\Desktop\Projects\DailyExpense\New\DailyExpense\DailyExpense\bin\x86\Debug\Content\Images\btnDelete2.png
+C:\Users\Tushki\Desktop\Projects\DailyExpense\New\DailyExpense\DailyExpense\bin\x86\Debug\Content\Images\btnMinimise.png
+C:\Users\Tushki\Desktop\Projects\DailyExpense\New\DailyExpense\DailyExpense\bin\x86\Debug\Content\Images\btnMinimise2.png
+C:\Users\Tushki\Desktop\Projects\DailyExpense\New\DailyExpense\DailyExpense\bin\x86\Debug\DailyExpense.exe
+C:\Users\Tushki\Desktop\Projects\DailyExpense\New\DailyExpense\DailyExpense\bin\x86\Debug\DailyExpense.pdb
+C:\Users\Tushki\Desktop\Projects\DailyExpense\New\DailyExpense\DailyExpense\bin\x86\Debug\Controller.dll
+C:\Users\Tushki\Desktop\Projects\DailyExpense\New\DailyExpense\DailyExpense\bin\x86\Debug\Model.dll
+C:\Users\Tushki\Desktop\Projects\DailyExpense\New\DailyExpense\DailyExpense\bin\x86\Debug\Interop.ADOX.dll
+C:\Users\Tushki\Desktop\Projects\DailyExpense\New\DailyExpense\DailyExpense\bin\x86\Debug\Controller.pdb
+C:\Users\Tushki\Desktop\Projects\DailyExpense\New\DailyExpense\DailyExpense\bin\x86\Debug\Model.pdb
+C:\Users\Tushki\Desktop\Projects\DailyExpense\New\DailyExpense\DailyExpense\obj\x86\Debug\DailyExpense.csprojResolveAssemblyReference.cache
+C:\Users\Tushki\Desktop\Projects\DailyExpense\New\DailyExpense\DailyExpense\obj\x86\Debug\DailyExpense.Common.Accounts.resources
+C:\Users\Tushki\Desktop\Projects\DailyExpense\New\DailyExpense\DailyExpense\obj\x86\Debug\DailyExpense.Common.Home.resources
+C:\Users\Tushki\Desktop\Projects\DailyExpense\New\DailyExpense\DailyExpense\obj\x86\Debug\DailyExpense.Common.Password.resources
+C:\Users\Tushki\Desktop\Projects\DailyExpense\New\DailyExpense\DailyExpense\obj\x86\Debug\DailyExpense.Properties.Resources.resources
+C:\Users\Tushki\Desktop\Projects\DailyExpense\New\DailyExpense\DailyExpense\obj\x86\Debug\DailyExpense.Shared.MainWindow.resources
+C:\Users\Tushki\Desktop\Projects\DailyExpense\New\DailyExpense\DailyExpense\obj\x86\Debug\DailyExpense.Shared.Splash.resources
+C:\Users\Tushki\Desktop\Projects\DailyExpense\New\DailyExpense\DailyExpense\obj\x86\Debug\DailyExpense.Shared.UserLanding.resources
+C:\Users\Tushki\Desktop\Projects\DailyExpense\New\DailyExpense\DailyExpense\obj\x86\Debug\DailyExpense.csproj.GenerateResource.Cache
+C:\Users\Tushki\Desktop\Projects\DailyExpense\New\DailyExpense\DailyExpense\obj\x86\Debug\DailyExpense.Common.Category.resources
+C:\Users\Tushki\Desktop\Projects\DailyExpense\New\DailyExpense\DailyExpense\obj\x86\Debug\DailyExpense.Common.AddExpense.resources
+C:\Users\Tushki\Desktop\Projects\DailyExpense\New\DailyExpense\DailyExpense\obj\x86\Debug\DailyExpense.Common.ViewExpense.resources
+C:\Users\Tushki\Desktop\Projects\DailyExpense\New\DailyExpense\DailyExpense\obj\x86\Debug\DailyExpense.Common.Debts.resources
+C:\Users\Tushki\Desktop\Projects\DailyExpense\New\DailyExpense\DailyExpense\bin\x86\Debug\Content\Images\btnHome.PNG
+C:\Users\Tushki\Desktop\Projects\DailyExpense\New\DailyExpense\DailyExpense\bin\x86\Debug\Content\Images\btnHome2.PNG
+C:\Users\t.a.gupta\Desktop\Personal\DailyExpense\New\DailyExpense\DailyExpense\bin\x86\Debug\DailyExpense.exe.config
+C:\Users\Tushki\Desktop\Projects\DailyExpense\DailyExpense\DailyExpense\bin\x86\Debug\DailyExpense.exe.config
+C:\Users\Tushki\Desktop\Projects\DailyExpense\DailyExpense\DailyExpense\bin\x86\Debug\Content\Images\btnClose.png
+C:\Users\Tushki\Desktop\Projects\DailyExpense\DailyExpense\DailyExpense\bin\x86\Debug\Content\Images\btnClose2.png
+C:\Users\Tushki\Desktop\Projects\DailyExpense\DailyExpense\DailyExpense\bin\x86\Debug\Content\Images\btnDelete.png
+C:\Users\Tushki\Desktop\Projects\DailyExpense\DailyExpense\DailyExpense\bin\x86\Debug\Content\Images\btnDelete2.png
+C:\Users\Tushki\Desktop\Projects\DailyExpense\DailyExpense\DailyExpense\bin\x86\Debug\Content\Images\btnHome.PNG
+C:\Users\Tushki\Desktop\Projects\DailyExpense\DailyExpense\DailyExpense\bin\x86\Debug\Content\Images\btnHome2.PNG
+C:\Users\Tushki\Desktop\Projects\DailyExpense\DailyExpense\DailyExpense\bin\x86\Debug\Content\Images\btnMinimise.png
+C:\Users\Tushki\Desktop\Projects\DailyExpense\DailyExpense\DailyExpense\bin\x86\Debug\Content\Images\btnMinimise2.png
+C:\Users\Tushki\Desktop\Projects\DailyExpense\DailyExpense\DailyExpense\bin\x86\Debug\Content\Images\Icon.ico
+C:\Users\Tushki\Desktop\Projects\DailyExpense\DailyExpense\DailyExpense\bin\x86\Debug\Content\Images\Icon.png
+C:\Users\Tushki\Desktop\Projects\DailyExpense\DailyExpense\DailyExpense\bin\x86\Debug\Content\Images\Image.png
+C:\Users\Tushki\Desktop\Projects\DailyExpense\DailyExpense\DailyExpense\bin\x86\Debug\DailyExpense.exe
+C:\Users\Tushki\Desktop\Projects\DailyExpense\DailyExpense\DailyExpense\bin\x86\Debug\DailyExpense.pdb
+C:\Users\Tushki\Desktop\Projects\DailyExpense\DailyExpense\DailyExpense\bin\x86\Debug\Controller.dll
+C:\Users\Tushki\Desktop\Projects\DailyExpense\DailyExpense\DailyExpense\bin\x86\Debug\Model.dll
+C:\Users\Tushki\Desktop\Projects\DailyExpense\DailyExpense\DailyExpense\bin\x86\Debug\Interop.ADOX.dll
+C:\Users\Tushki\Desktop\Projects\DailyExpense\DailyExpense\DailyExpense\bin\x86\Debug\Controller.pdb
+C:\Users\Tushki\Desktop\Projects\DailyExpense\DailyExpense\DailyExpense\bin\x86\Debug\Model.pdb
+C:\Users\Tushki\Desktop\Projects\DailyExpense\DailyExpense\DailyExpense\obj\x86\Debug\DailyExpense.csprojResolveAssemblyReference.cache
+C:\Users\Tushki\Desktop\Projects\DailyExpense\DailyExpense\DailyExpense\obj\x86\Debug\DailyExpense.Common.Accounts.resources
+C:\Users\Tushki\Desktop\Projects\DailyExpense\DailyExpense\DailyExpense\obj\x86\Debug\DailyExpense.Common.AddExpense.resources
+C:\Users\Tushki\Desktop\Projects\DailyExpense\DailyExpense\DailyExpense\obj\x86\Debug\DailyExpense.Common.Category.resources
+C:\Users\Tushki\Desktop\Projects\DailyExpense\DailyExpense\DailyExpense\obj\x86\Debug\DailyExpense.Common.Debts.resources
+C:\Users\Tushki\Desktop\Projects\DailyExpense\DailyExpense\DailyExpense\obj\x86\Debug\DailyExpense.Common.Home.resources
+C:\Users\Tushki\Desktop\Projects\DailyExpense\DailyExpense\DailyExpense\obj\x86\Debug\DailyExpense.Common.Password.resources
+C:\Users\Tushki\Desktop\Projects\DailyExpense\DailyExpense\DailyExpense\obj\x86\Debug\DailyExpense.Common.ViewExpense.resources
+C:\Users\Tushki\Desktop\Projects\DailyExpense\DailyExpense\DailyExpense\obj\x86\Debug\DailyExpense.Common.ViewExpensesCombined.resources
+C:\Users\Tushki\Desktop\Projects\DailyExpense\DailyExpense\DailyExpense\obj\x86\Debug\DailyExpense.Properties.Resources.resources
+C:\Users\Tushki\Desktop\Projects\DailyExpense\DailyExpense\DailyExpense\obj\x86\Debug\DailyExpense.SharedExpenses.SEEdit.resources
+C:\Users\Tushki\Desktop\Projects\DailyExpense\DailyExpense\DailyExpense\obj\x86\Debug\DailyExpense.SharedExpenses.SEHome.resources
+C:\Users\Tushki\Desktop\Projects\DailyExpense\DailyExpense\DailyExpense\obj\x86\Debug\DailyExpense.SharedExpenses.SEReport.resources
+C:\Users\Tushki\Desktop\Projects\DailyExpense\DailyExpense\DailyExpense\obj\x86\Debug\DailyExpense.SharedExpenses.SETran.resources
+C:\Users\Tushki\Desktop\Projects\DailyExpense\DailyExpense\DailyExpense\obj\x86\Debug\DailyExpense.Shared.About.resources
+C:\Users\Tushki\Desktop\Projects\DailyExpense\DailyExpense\DailyExpense\obj\x86\Debug\DailyExpense.Shared.MainWindow.resources
+C:\Users\Tushki\Desktop\Projects\DailyExpense\DailyExpense\DailyExpense\obj\x86\Debug\DailyExpense.Shared.Splash.resources
+C:\Users\Tushki\Desktop\Projects\DailyExpense\DailyExpense\DailyExpense\obj\x86\Debug\DailyExpense.Shared.UserLanding.resources
+C:\Users\Tushki\Desktop\Projects\DailyExpense\DailyExpense\DailyExpense\obj\x86\Debug\DailyExpense.csproj.GenerateResource.Cache
+C:\Users\Tushki\Desktop\Projects\DailyExpense\DailyExpense\DailyExpense\obj\x86\Debug\DailyExpense.exe
+C:\Users\Tushki\Desktop\Projects\DailyExpense\DailyExpense\DailyExpense\obj\x86\Debug\DailyExpense.pdb
+C:\Users\t.a.gupta\Desktop\Docs\Personal\DailyExpense\DailyExpense\DailyExpense\bin\x86\Debug\Content\Images\btnClose.png
+C:\Users\t.a.gupta\Desktop\Docs\Personal\DailyExpense\DailyExpense\DailyExpense\bin\x86\Debug\Content\Images\btnClose2.png
+C:\Users\t.a.gupta\Desktop\Docs\Personal\DailyExpense\DailyExpense\DailyExpense\bin\x86\Debug\Content\Images\btnDelete.png
+C:\Users\t.a.gupta\Desktop\Docs\Personal\DailyExpense\DailyExpense\DailyExpense\bin\x86\Debug\Content\Images\btnDelete2.png
+C:\Users\t.a.gupta\Desktop\Docs\Personal\DailyExpense\DailyExpense\DailyExpense\bin\x86\Debug\Content\Images\btnHome.PNG
+C:\Users\t.a.gupta\Desktop\Docs\Personal\DailyExpense\DailyExpense\DailyExpense\bin\x86\Debug\Content\Images\btnHome2.PNG
+C:\Users\t.a.gupta\Desktop\Docs\Personal\DailyExpense\DailyExpense\DailyExpense\bin\x86\Debug\Content\Images\btnMinimise.png
+C:\Users\t.a.gupta\Desktop\Docs\Personal\DailyExpense\DailyExpense\DailyExpense\bin\x86\Debug\Content\Images\btnMinimise2.png
+C:\Users\t.a.gupta\Desktop\Docs\Personal\DailyExpense\DailyExpense\DailyExpense\bin\x86\Debug\Content\Images\Icon.ico
+C:\Users\t.a.gupta\Desktop\Docs\Personal\DailyExpense\DailyExpense\DailyExpense\bin\x86\Debug\Content\Images\Icon.png
+C:\Users\t.a.gupta\Desktop\Docs\Personal\DailyExpense\DailyExpense\DailyExpense\bin\x86\Debug\Content\Images\Image.png
+C:\Users\t.a.gupta\Desktop\Docs\Personal\DailyExpense\DailyExpense\DailyExpense\bin\x86\Debug\Controller.dll
+C:\Users\t.a.gupta\Desktop\Docs\Personal\DailyExpense\DailyExpense\DailyExpense\bin\x86\Debug\Model.dll
+C:\Users\t.a.gupta\Desktop\Docs\Personal\DailyExpense\DailyExpense\DailyExpense\bin\x86\Debug\Interop.ADOX.dll
+C:\Users\t.a.gupta\Desktop\Docs\Personal\DailyExpense\DailyExpense\DailyExpense\bin\x86\Debug\Controller.pdb
+C:\Users\t.a.gupta\Desktop\Docs\Personal\DailyExpense\DailyExpense\DailyExpense\bin\x86\Debug\Model.pdb
+C:\Users\t.a.gupta\Desktop\Docs\Personal\DailyExpense\DailyExpense\DailyExpense\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\t.a.gupta\Desktop\Docs\Personal\DailyExpense\DailyExpense\DailyExpense\obj\x86\Debug\DailyExpense.Common.Accounts.resources
+C:\Users\t.a.gupta\Desktop\Docs\Personal\DailyExpense\DailyExpense\DailyExpense\obj\x86\Debug\DailyExpense.Common.AddExpense.resources
+C:\Users\t.a.gupta\Desktop\Docs\Personal\DailyExpense\DailyExpense\DailyExpense\obj\x86\Debug\DailyExpense.Common.Category.resources
+C:\Users\t.a.gupta\Desktop\Docs\Personal\DailyExpense\DailyExpense\DailyExpense\obj\x86\Debug\DailyExpense.Common.Debts.resources
+C:\Users\t.a.gupta\Desktop\Docs\Personal\DailyExpense\DailyExpense\DailyExpense\obj\x86\Debug\DailyExpense.Common.Home.resources
+C:\Users\t.a.gupta\Desktop\Docs\Personal\DailyExpense\DailyExpense\DailyExpense\obj\x86\Debug\DailyExpense.Common.Password.resources
+C:\Users\t.a.gupta\Desktop\Docs\Personal\DailyExpense\DailyExpense\DailyExpense\obj\x86\Debug\DailyExpense.Common.ViewExpense.resources
+C:\Users\t.a.gupta\Desktop\Docs\Personal\DailyExpense\DailyExpense\DailyExpense\obj\x86\Debug\DailyExpense.Common.ViewExpensesCombined.resources
+C:\Users\t.a.gupta\Desktop\Docs\Personal\DailyExpense\DailyExpense\DailyExpense\obj\x86\Debug\DailyExpense.Properties.Resources.resources
+C:\Users\t.a.gupta\Desktop\Docs\Personal\DailyExpense\DailyExpense\DailyExpense\obj\x86\Debug\DailyExpense.SharedExpenses.SEEdit.resources
+C:\Users\t.a.gupta\Desktop\Docs\Personal\DailyExpense\DailyExpense\DailyExpense\obj\x86\Debug\DailyExpense.SharedExpenses.SEHome.resources
+C:\Users\t.a.gupta\Desktop\Docs\Personal\DailyExpense\DailyExpense\DailyExpense\obj\x86\Debug\DailyExpense.SharedExpenses.SEReport.resources
+C:\Users\t.a.gupta\Desktop\Docs\Personal\DailyExpense\DailyExpense\DailyExpense\obj\x86\Debug\DailyExpense.SharedExpenses.SETran.resources
+C:\Users\t.a.gupta\Desktop\Docs\Personal\DailyExpense\DailyExpense\DailyExpense\obj\x86\Debug\DailyExpense.Shared.About.resources
+C:\Users\t.a.gupta\Desktop\Docs\Personal\DailyExpense\DailyExpense\DailyExpense\obj\x86\Debug\DailyExpense.Shared.MainWindow.resources
+C:\Users\t.a.gupta\Desktop\Docs\Personal\DailyExpense\DailyExpense\DailyExpense\obj\x86\Debug\DailyExpense.Shared.Splash.resources
+C:\Users\t.a.gupta\Desktop\Docs\Personal\DailyExpense\DailyExpense\DailyExpense\obj\x86\Debug\DailyExpense.Shared.UserLanding.resources
+C:\Users\t.a.gupta\Desktop\Docs\Personal\DailyExpense\DailyExpense\DailyExpense\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\t.a.gupta\Desktop\Docs\Personal\DailyExpense\DailyExpense\DailyExpense\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\t.a.gupta\Desktop\Docs\Personal\DailyExpense\DailyExpense\DailyExpense\bin\x86\Debug\CalQBeads.exe.config
+C:\Users\t.a.gupta\Desktop\Docs\Personal\DailyExpense\DailyExpense\DailyExpense\bin\x86\Debug\CalQBeads.exe
+C:\Users\t.a.gupta\Desktop\Docs\Personal\DailyExpense\DailyExpense\DailyExpense\bin\x86\Debug\CalQBeads.pdb
+C:\Users\t.a.gupta\Desktop\Docs\Personal\DailyExpense\DailyExpense\DailyExpense\obj\x86\Debug\CalQBeads.exe
+C:\Users\t.a.gupta\Desktop\Docs\Personal\DailyExpense\DailyExpense\DailyExpense\obj\x86\Debug\CalQBeads.pdb
+C:\Users\t.a.gupta\Desktop\Docs\Personal\DailyExpense\DailyExpense\DailyExpense\bin\x86\Debug\CalQBeads.exe.manifest
+C:\Users\t.a.gupta\Desktop\Docs\Personal\DailyExpense\DailyExpense\DailyExpense\bin\x86\Debug\CalQBeads.application
+C:\Users\t.a.gupta\Desktop\Docs\Personal\DailyExpense\DailyExpense\DailyExpense\obj\x86\Debug\CalQBeads.exe.manifest
+C:\Users\t.a.gupta\Desktop\Docs\Personal\DailyExpense\DailyExpense\DailyExpense\obj\x86\Debug\CalQBeads.application

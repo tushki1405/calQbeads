@@ -1,0 +1,9 @@
+C:\Users\t.a.gupta\Documents\Visual Studio 2008\Projects\DailyExpense\Model\bin\Debug\Model.dll
+C:\Users\t.a.gupta\Documents\Visual Studio 2008\Projects\DailyExpense\Model\bin\Debug\Model.pdb
+C:\Users\t.a.gupta\Documents\Visual Studio 2008\Projects\DailyExpense\Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\t.a.gupta\Documents\Visual Studio 2008\Projects\DailyExpense\Model\obj\Debug\Model.dll
+C:\Users\t.a.gupta\Documents\Visual Studio 2008\Projects\DailyExpense\Model\obj\Debug\Model.pdb
+C:\Users\t.a.gupta\Documents\Visual Studio 2008\Projects\DailyExpense\Model\obj\Debug\Interop.ADOX.dll
+C:\Users\t.a.gupta\Documents\Visual Studio 2008\Projects\DailyExpense\Model\obj\Debug\Model.csproj.ResolveComReference.cache
+C:\Users\t.a.gupta\Documents\Visual Studio 2008\Projects\DailyExpense\Model\bin\Debug\Model.dll.config
+C:\Users\t.a.gupta\Documents\Visual Studio 2008\Projects\DailyExpense\Model\bin\Debug\Interop.ADOX.dll

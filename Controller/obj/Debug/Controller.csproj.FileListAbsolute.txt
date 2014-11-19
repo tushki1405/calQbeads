@@ -1,0 +1,8 @@
+C:\Users\t.a.gupta\Documents\Visual Studio 2008\Projects\DailyExpense\Controller\bin\Debug\Controller.dll
+C:\Users\t.a.gupta\Documents\Visual Studio 2008\Projects\DailyExpense\Controller\bin\Debug\Controller.pdb
+C:\Users\t.a.gupta\Documents\Visual Studio 2008\Projects\DailyExpense\Controller\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\t.a.gupta\Documents\Visual Studio 2008\Projects\DailyExpense\Controller\obj\Debug\Controller.dll
+C:\Users\t.a.gupta\Documents\Visual Studio 2008\Projects\DailyExpense\Controller\obj\Debug\Controller.pdb
+C:\Users\t.a.gupta\Documents\Visual Studio 2008\Projects\DailyExpense\Controller\bin\Debug\Model.dll
+C:\Users\t.a.gupta\Documents\Visual Studio 2008\Projects\DailyExpense\Controller\bin\Debug\Model.pdb
+C:\Users\t.a.gupta\Documents\Visual Studio 2008\Projects\DailyExpense\Controller\bin\Debug\Interop.ADOX.dll
